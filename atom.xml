@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jindexyang.github.io/</id>
     <title>静静小可爱</title>
-    <updated>2019-06-04T02:12:43.945Z</updated>
+    <updated>2019-06-04T02:40:13.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jindexyang.github.io/"/>
     <link rel="self" href="https://jindexyang.github.io//atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://jindexyang.github.io//images/avatar.png</logo>
     <icon>https://jindexyang.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 静静小可爱</rights>
+    <entry>
+        <title type="html"><![CDATA[静静我爱你]]></title>
+        <id>https://jindexyang.github.io//post/jjiou</id>
+        <link href="https://jindexyang.github.io//post/jjiou">
+        </link>
+        <updated>2019-06-04T02:39:28.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="静静我爱你">静静我爱你</h3>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="静静我爱你">静静我爱你</h3>
+<!-- more -->
+<h5 id="么么哒">么么哒</h5>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jindexyang.github.io//post/hello-gridea</id>
